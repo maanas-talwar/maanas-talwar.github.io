@@ -1,0 +1,80 @@
+h1 {
+    font-family: 'EB Garamond', serif;
+    padding-top: 2%;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.blog-cards {
+    font-family: 'Roboto', sans-serif;
+    font-variant: small-caps;
+}
+
+.navbar {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.active {
+    font-weight: 600;
+}
+
+#bottom-bar {
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#bottom-bar img {
+    opacity: 0.5;
+}
+
+#bottom-bar img:hover {
+    opacity: 0.75;
+}
+
+/* Small devices (phones) */
+@media (max-width: 768px) {
+    .navbar {
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+    .container-fluid {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    #bottom-bar {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+/* Medium devices (tablets) */
+@media (min-width: 768px) {
+    .navbar {
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+    .container-fluid {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+}
+
+/* Large devices (desktops) */
+@media (min-width: 1000px) {
+    .navbar {
+        padding-left: 18%;
+        padding-right: 18%;
+    }
+    .container-fluid {
+        padding-left: 21%;
+        padding-right: 21%;
+    }
+}

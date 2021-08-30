@@ -20,6 +20,10 @@ span {
     display: inline-block;
 }
 
+#lastline {
+    text-align: center;
+}
+
 .arrow-link:hover > .arrow{
     animation: slide 0.75s ease-in-out infinite;
 }

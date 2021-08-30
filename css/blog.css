@@ -9,6 +9,16 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+.data {
+    display: flex;
+    height: 100%;
+}
+
+p {
+    display: inline-block;
+    align-self: flex-end;
+}
+
 .blog-cards {
     font-family: 'Roboto', sans-serif;
     font-variant: small-caps;

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /Maanas_Talwar_Resume.pdf
+
+Sitemap: https://maanas-talwar.github.io/sitemap.xml

@@ -1,5 +1,9 @@
 * {-webkit-font-smoothing: antialiased;}
 
+body {
+    display: none;
+}
+
 h1 {
     font-family: 'EB Garamond', serif;
     padding-top: 2%;

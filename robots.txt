@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /Maanas_Talwar_Resume-04-09-2022.pdf
+Disallow: /Maanas_Talwar_Resume-15-10-2022.pdf
 
 Sitemap: https://maanas-talwar.github.io/sitemap.xml

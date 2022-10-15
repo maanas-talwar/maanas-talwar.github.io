@@ -11,7 +11,12 @@ h1 {
     text-align: center;
 }
 
-h2 {
+h3 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+}
+
+h5 {
     font-family: 'EB Garamond', serif;
     font-weight: 500;
 }
@@ -24,24 +29,6 @@ span {
     display: inline-block;
 }
 
-#lastline {
-    text-align: center;
-}
-
-.arrow-link:hover > .arrow{
-    animation: slide 0.75s ease-in-out infinite;
-}
-
-@keyframes slide {
-  0%,
-  100% {
-    transform: translate(0, 0);
-  }
-
-  50% {
-    transform: translate(10px, 0);
-  }
-}
 
 .navbar {
     font-family: 'Poppins', sans-serif;
